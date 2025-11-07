@@ -36,11 +36,11 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Let’s connect! Reach me at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+    <p>Let’s connect! Reach me at <a href="mailto:youremail@example.com">bautistanathaniel99@gmail.com</a>.</p>
   </section>
 
   <footer>
-    <p>© 2025 Your Name — Built with ❤️ and GitHub Pages</p>
+    <p>© 2025 Nathaniel — Built with ❤️ and GitHub Pages</p>
   </footer>
 </body>
 </html>
