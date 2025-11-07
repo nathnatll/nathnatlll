@@ -8,14 +8,14 @@
 </head>
 <body>
   <header>
-    <h1>Hello, I'm <span class="accent">Your Name</span> 👋</h1>
+    <h1>Hello, I'm <span class="accent">Nathaniel Bautista</span> 👋</h1>
     <p>Web Developer | Designer | Creator</p>
     <a href="#projects" class="btn">View My Work</a>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I'm a passionate developer who loves building clean, creative, and user-friendly web experiences.</p>
+    <p>I'm a beginner developer who loves building clean, creative, and user-friendly web experiences.</p>
   </section>
 
   <section id="projects">
